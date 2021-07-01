@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Lara Sproesser  :star2:
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larasproesser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasproesser&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasproesser&layout=compact&langs_count=16&theme=dracula"/>
 
 
 
